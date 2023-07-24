@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+  display: inline-block;
+}
+
+span {
+  font-size: larger;
+  color: red;
+}
