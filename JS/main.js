@@ -9,4 +9,4 @@ const validEmails = [
 const userMail = prompt("Qual è il tuo indirizzo email ?");
 
 // ELEMENTO HTML NEL QUALE SCRIVERE SE L'INPUT E' OK O NO
-const textEl = document.getElementById("myP");
+const textEl = document.getElementById("user");
