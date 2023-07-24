@@ -1,0 +1,20 @@
+main {
+  background-image: url(https://i.pinimg.com/564x/af/37/27/af3727ca5330a11c97781de2701b5faf.jpg);
+  color: white;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+  color: white;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  border: 6px solid red;
+  line-height: 150px;
+  text-align: center;
+}
